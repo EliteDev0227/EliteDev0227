@@ -20,7 +20,7 @@ On top of all, I am honest, punctual and I have a special way to build a win-win
 
 Some of my projects in the past are:
 - Built an Facebook marketing automation and analytics platform using Node.js on the backend, and Vue, Angular on the frontend, while utilizing Facebook Marketing APIs.
-- Made a Geo-Data analytics platform using React.js + Redux on the front end, RoR on the backend.
+- Made a Geo-Data analytics platform using Vue.js
 - Built an E-Learning platform for internal employees, consisting of CMS which was built by React.js and mobile apps built by React Native.
 - Built a Data ETL platform using .NET Core + Angular + DevEx Library.
 - Built several 2D HTML5 games using Node.js, Cocos2d, and Pixi.js
